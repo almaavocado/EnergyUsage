@@ -1,6 +1,6 @@
 # EnergyUsage
 
----- This is all for the free sandbox API!! NOT FOR LIVE ENV  -------- 
+---- This is all for the free version of Voltus sandbox API!! NOT FOR LIVE ENV  -------- 
 
 • Error Handling: Implemented error handling to handle potential exceptions that may occur during the API request such as invalid API key, network errors, or unexpected responses. https://github.com/almaavocado/EnergyUsage/blob/master/Backend/errorHandling.py
 
