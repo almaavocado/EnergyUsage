@@ -7,7 +7,7 @@
 
 • Pagination: Although pagination is not fully implemented in the Voltus API sandbox, I simulated pagination by modifying the code to handle paginated responses. Updated the code to request subsequent pages if available and merge the results into a single list of sites.
 
-• Interactive User Interface: Develop a graphical user interface (GUI) or command-line interface (CLI) to interact with the project. Allows users to input their API key, view the list of sites, and navigate through paginated results if applicable.
+• Interactive User Interface: Developed a command-line interface (CLI) to interact with the project. Allows users to input their API key, view the list of sites, and navigate through paginated results if applicable.
 
 • Additional Site Details: Expand the information displayed for each site. Retrieves and displays additional details such as the site's customer location ID, meters associated with the site (including their names and IDs), and any other relevant information provided by the API response.
 
