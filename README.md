@@ -5,7 +5,7 @@
 
 • Error Handling: Implemented error handling to handle potential exceptions that may occur during the API request such as invalid API key, network errors, or unexpected responses.
 
-• Pagination: Although pagination is not fully implemented in the Voltus API sandbox, I simulated pagination by modifying the code to handle paginated responses. Update the code to request subsequent pages if available and merge the results into a single list of sites.
+• Pagination: Although pagination is not fully implemented in the Voltus API sandbox, I simulated pagination by modifying the code to handle paginated responses. Updated the code to request subsequent pages if available and merge the results into a single list of sites.
 
 • Interactive User Interface: Develop a graphical user interface (GUI) or command-line interface (CLI) to interact with the project. Allows users to input their API key, view the list of sites, and navigate through paginated results if applicable.
 
