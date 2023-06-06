@@ -62,7 +62,7 @@ function SiteList() {
   return (
     <div className="container">
       {/* Render error message if there's an error */}
-      {error && <div className="error">{error}</div>}
+      {error}
       <h1>Voltus Site List</h1>
       <div className="input-container">
         <label>API Key:</label>
