@@ -9,7 +9,7 @@
 
 • Interactive User Interface: Developed a command-line interface (CLI) to interact with the project. Allows users to input their API key, view the list of sites, and navigate through paginated results if applicable.
 
-• Additional Site Details: Expand the information displayed for each site. Retrieves and displays additional details such as the site's customer location ID, meters associated with the site (including their names and IDs), and any other relevant information provided by the API response.
+• Additional Site Details: Expanded the information displayed for each site. Retrieves and displays additional details such as the site's customer location ID, meters associated with the site (including their names and IDs), and any other relevant information provided by the API response.
 
 • Filtering and Sorting: Implemented filters and sorting options to refine the displayed sites. Allows users to filter sites based on certain criteria (e.g., site name, customer location ID) and sort the sites based on different attributes (e.g., alphabetical order, number of meters).
 
