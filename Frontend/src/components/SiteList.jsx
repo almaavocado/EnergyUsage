@@ -17,8 +17,8 @@ function SiteList() {
 
   const fetchSites = async () => {
     try {
-      const apiKeyHeader = 'secret'; // Replace with your actual API key
-      const url = '/api/2022-04-15/sites'; // Update the endpoint based on the Voltus API documentation
+      const apiKeyHeader = 'secret'; 
+      const url = '/api/2022-04-15/sites'; 
   
       const response = await fetch(url, {
         headers: {
